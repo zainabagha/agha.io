@@ -1,0 +1,66 @@
+
+PUBLICATIONS                                          Citations: 363; h-index: 11; i10-index: 13
+
+
+JOURNAL ARTICLES/CONFERENCE PROCEEDINGS (PEER-REVIEWED)
+
+Ozioma C. Oguine, Anuyah, O., Agha, Z., Melgarez, I., Alvarado A. G., Badillo-Urquiola, K.. 2025. (In-Press) “Online Safety for All: Sociocultural Insights from a Systematic Review of Youth Online Safety in the Global South,” In the Proceedings of the 2025 ACM Conference on Computer Supported Cooperative Work (CSCW 2025)
+Park, J., Ma, R., Ali N. S., Baptiste, N. J, Agha, Z., and Wisniewski, P., J. 2025. “Teens, Privacy, and Algorithms: Navigating and Co-Designing Solutions for Interpersonal Boundary Management on Social Media. In the Proceedings of Interaction Design and Children” (IDC ’25).
+Agha, Z., Ali, N. S., Park, J., & Wisniewski, P. J. (2024). “A systematic review on design-based nudges for adolescent online safety”. International Journal of Child-Computer Interaction (IJCCI 2024).
+Agha, Z., Park, J., Wan R., Ali, N., Wang, Y., DiFranzo, D., Badillo-Urquiola, K., & Wisniewski, P. (In-Press) (2024) “Tricky vs. Transparent: Towards an Ecologically Valid and Safe Approach for Evaluating Online Safety Nudges for Teens,”, In the Proceedings of the ACM CHI Conference on Human Factors in Computing Systems, (CHI 2024).
+Agha, Z., Badillo-Urquiola, K., Wisniewski, P., (2023) ““Strike at the Root:” Co-designing Real-Time Social Media Interventions for Adolescent Online Risk Prevention” In the Proceedings of the 2023 ACM Conference on Computer Supported Cooperative Work (CSCW 2023)
+Obajemu, O., Agha, Z., Wisniewski, P., (In-Press) (2023) “Towards Enforcing Good Digital Citizenship: Identifying Opportunities for Adolescent Online Safety Nudges” In the Proceedings of the 2024 ACM Conference on Computer Supported Cooperative Work (CSCW 2024).
+Badillo-Urquiola, K., Agha, Z., Wisniewski, P., (In-Press) (2023) “Towards a Social Ecological Approach to Supporting Caseworkers in Promoting the Online Safety of Youth in Foster Care” In the Proceedings of the 2024 ACM Conference on Computer Supported Cooperative Work (CSCW 2024)
+Alsoubai, A., Razi, A., Agha, Z., Ali, S., Stringhini, G., De Choudhury, M., Wisniewski, P., (In-Press) (2023) “Profiling the Offline and Online Risk Experiences of Youth to Develop Targeted Interventions for Online Safety” In the Proceedings of the 2024 ACM Conference on Computer Supported Cooperative Work (CSCW 2024).
+Agha, Z., Ali, N., Park, J., & Wisniewski, P. (Under Review) (2024). Nudging HCI researchers to move beyond design to implementing behavioral interventions for adolescents: a systematic review. [Manuscript submitted for review].
+Agha, Z., Anaraky, R., Badillo-Urquiola, K., McHugh, B., Wisniewski, P., (2021) “Just-in-Time Parenting: A Two Month Examination of the Bi-directional Influences Between Parental Mediation and Adolescent Online Risk Exposure,” In the Proceedings of the 23rd International Conference on Human-Computer Interaction (HCII 2021)
+Badillo-Urquiola, K., Shea, Z., Agha, Z., Lediaeva, I., Wisniewski, P., (2021) “Conducting Risky Research with Teens: Co-designing for the Ethical Treatment and Protection of Adolescents” In the Proceedings of the 2021 ACM Conference on Computer Supported Cooperative Work (CSCW 2021)
+
+
+EXTENDED ABSTRACTS & POSTERS (PEER-REVIEWED)
+
+Agha, Z., Martinez, M., Ali, N. S., DiFranzo, D., Wisniewski, P. J. (2025). “SocialSim: An Open Source Platform for Conducting Behavioral Intervention Research on Social Media”, In the Proceedings of the 2025 ACM Conference on Computer Supported Cooperative Work (CSCW 2025)
+Ali, N. S., Ahn, T., Agha, Z., Park, J. K., & Wisniewski, P. J. (2024). From Ideas to Impact: Cracking the Code for Effectively Engaging Teens in Long-Term Online Safety Research. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems.
+Ali, N., Agha, Z., Chatlani, N., Park, J., Wisniewski, P. (2024) “A Case Study on Facilitating a Long-Term Youth Advisory Board to Involve Youth in Adolescent Online Safety Research,” In the ACM CHI Conference on Human Factors in Computing Systems, (CHI 2024).
+Agha, Z., Miu, K., Piper, S., Park, J., Wisniewski, P. (2023) “Co-Designing User Personas and Risk Scenarios for Evaluating Adolescent Online Safety Interventions” In Computer Supported Cooperative Work and Social Computing (CSCW ’23 Companion)
+Agha, Z., Zhang, Z., Obajemu, O., Shirley, L., Wisniewski, P. (2022) “A Case Study on User Experience Bootcamps with Teens to Co-Design Real-Time Online Safety Interventions,” In the ACM CHI Conference on Human Factors in Computing Systems, (CHI 2022).
+Dev, P., Medina, J., Agha, Z., De Choudhury, M., Razi, A., Wisniewski, P. (2022) “From Ignoring Strangers’ Solicitations to Mutual Sexting with Friends: Understanding Youth’s Online Sexual Risks in Instagram Private Conversations,” In Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing (CSCW ’22 Companion)
+Agha, Z., Chatlani, N., Razi, A., Wisniewski, P., (2020) “Towards Conducting Responsible Research with Teens and Parents regarding Online Risks” Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020)
+
+CO-ORGANIZED WORKSHOPS (PEER-REVIEWED)
+
+Cho, J., Song, I., Agha, Z., Cagiltay, B., Calambur, V., Rheu, M. M., & Huh-Yoo, J. (2025). Mobile Technology and Teens: Understanding the Changing Needs of Sociocultural and Technical Landscape. Workshop in the ACM CHI Conference on Human Factors in Computing Systems, (CHI 2025)
+Smith, G., Chapman, K., Agha, Z., Ruppert, J. Cullen, S., Khan, S., Knijnenburg, B., Vitak, J., Kumar, P., Wisniewski, P., Page, X. (2023) “Privacy Interventions and Education (PIE): Encouraging Privacy Protective Behavioral Change Online”, Workshop in the ACM CHI Conference on Human Factors in Computing Systems, (CHI 2023)
+
+WORKSHOP POSITION PAPERS (LIGHTLY REVIEWED)
+
+Akter, M., Agha, Z., Alsoubai, A., Ali, N., & Wisniewski, P. (2024). Towards Collaborative Family-Centered Design for Online Safety, Privacy and Security. Extended Abstract presented at the ACM Conference on Human Factors in Computing (CHI 2024) Workshop on Family-Centered Design. 
+Agha, Z., Badillo-Urquiola, K. Chatlani, N., Alsoubai, A., Wisniewski, P., (2020) “Socially Responsible Computing in Adolescent Online Safety” Extended Abstract presented at the ACM Conference on Computer-Supported Cooperative Work Workshop on Collective Organizing and Social Responsibility, (CSCW 2020).
+Badillo-Urquiola, K., Agha, Z., Akter, K., Wisniewski, P., (2020) “Towards Assets-Based Approaches for Adolescent Online Safety” Extended Abstract presented at the ACM Conference on Computer-Supported Cooperative Work Workshop on Operationalizing an Assets-Based Design of Technology, (CSCW 2020)
+Razi, A., Agha, Z., Chatlani, N., Wisniewski, P., (2020) “Privacy Challenges for Adolescents as a Vulnerable Population” Networked Privacy Workshop of the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020).
+
+
+UNIVERSITY SPONSORED RESEARCH FORUMS (NOT PEER-REVIEWED)
+
+Miu, K. Piper, S., Agha, Z., Park, J., Wisniewski, P., (2022), “Co-Designing User Personas and a Simulation for Evaluating Adolescent Online Safety Interventions”, Poster presented at Vanderbilt Undergraduate Research Fair (VURF 2022)
+Shirley, L., McNeil, M., Agha, Z., Taliaferro, L., Gryglewicz, K., Wisniewski, P., (2021), “SafePlan: Co-designing for Suicide Prevention of At-Risk Youth”, Poster presented at UCF’s Showcase of Undergraduate Research Excellence (SURE 2021)
+Zhang, A., Acevedo, C., Martins, F., Shirley, L. Agha, Z., Wisniewski, P., (2021) “Designing a UX Workshop for Youth Online Safety”, Poster presented at UCF’s Showcase of Undergraduate Research Excellence (SURE 2021)
+Chandra, S., Agha, Z., Chatlani, N., Wisniewski P., (2020), “Conducting Responsible Research with Teen and Parents About Online Risks”, Poster presented at UCF’s Showcase of Undergraduate Research Excellence (SURE 2020)
+
+
+
+NEWS MEDIA COVERAGE
+
+2023                  WKRN-TV, “Vanderbilt researchers studying online teen safety as AI popularity increases”
+
+2023                  Scientific American, “Here’s How to Actually Keep Kids and Teens Safe Online”
+
+2023                  CSCW Medium, “A Relentless Cycle of Online Risks: How Teens Co-Design for Online
+			  Risk Prevention & Collective Safety"
+
+2021		  WESH NEWS, “Top 3 apps parents should monitor on kids’ phones”
+
+
+
+
+
