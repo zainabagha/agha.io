@@ -7,3 +7,11 @@ url: https://zainabagha.github.io
 scholar_userid: TV1xodIAAAAJ
 minimal_mistakes_skin: default
 markdown: kramdown
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+  publications:
+    output: true
+    permalink: /publication/:name/
